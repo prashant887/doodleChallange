@@ -1,0 +1,4 @@
+https://github.com/DoodleScheduling/hiring-challenges/tree/master/data-engineer#the-challenge-data-engineer
+https://github.com/etano
+https://github.com/DoodleScheduling
+gzcat stream.jsonl.gz | ~/kafka_2.13-2.8.0/bin/kafka-console-producer.sh --topic events --bootstrap-server localhost:9092
